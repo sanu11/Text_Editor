@@ -1,2 +1,2 @@
 # Text_Editor
-text editor made on QT
+It is a simple basic Text editor made on QT
